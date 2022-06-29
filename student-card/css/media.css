@@ -1,0 +1,48 @@
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {
+	#main_content {
+		padding: 25px;
+	}
+
+	main {
+		justify-content: center;
+		justify-content: center;
+	}
+}
+
+@media only screen and (max-width: 890px) {
+	#sidebar {
+		max-width: 575px;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 768px) {
+	main {
+		justify-content: center;
+	}
+}
+
+@media only screen and (max-width: 576px) {}
+
+
+@media screen and (max-width: 45rem) {
+	html {
+		font-size: 95%;
+	}
+}
+
+@media screen and (max-width: 40rem) {
+	html {
+		font-size: 90%;
+	}
+}
+
+@media screen and (max-width: 35rem) {
+	html {
+		font-size: 85%;
+	}
+}
